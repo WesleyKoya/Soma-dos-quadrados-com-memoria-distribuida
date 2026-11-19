@@ -5,7 +5,7 @@ dividindo o trabalho entre vários processos MPI. A prática demonstra o modelo 
 cada processo possui seus próprios dados locais e a troca de informação é feita apenas por mensagens.
 
 > Disciplina: Programação de Aplicações de Alto Desempenho — Engenharia da Computação — Universidade Veiga de Almeida (UVA)
-> Aluno: Vítor Peyrek Cardoso
+> Aluno: Wesley Coutinho da Silva
 
 ## Como funciona
 
